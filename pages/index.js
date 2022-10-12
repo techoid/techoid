@@ -6,6 +6,8 @@ import ProductComponent from './components/productcomponent';
 import ProductDetailsComponent from './components/productdetailscomponent';
 import GoogleReviewsComponent from './components/googlereviewscomponent';
 import BlogComponent from './components/blogcomponent';
+import IconComponents from '../components/iconcomponents';
+import NoificationComponents from '../components/noificationcomponents';
 
 function index() {
   return <>
