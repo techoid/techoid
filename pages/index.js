@@ -28,6 +28,8 @@ function index() {
             <ProductDetailsComponent />
             <GoogleReviewsComponent />
             <BlogComponent />
+            <IconComponents />
+            <NoificationComponents />
           </div>
         </section>
       <Footer />
